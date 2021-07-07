@@ -1,5 +1,8 @@
 ### Hi there 👋
+![banner (1)](https://user-images.githubusercontent.com/81287219/124701736-b4272d00-df0c-11eb-91d6-f6917413bcae.png)
+<br/><br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsk-007&show_icons=true&theme=radical)
 <!--
 **gsk-007/gsk-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
