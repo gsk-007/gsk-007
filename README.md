@@ -11,7 +11,8 @@
 ![banner (1)](https://user-images.githubusercontent.com/81287219/124701736-b4272d00-df0c-11eb-91d6-f6917413bcae.png)
 
 <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsk-007&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsk-007&layout=compact&theme=radical)](https://https://github.com/gsk-007)&nbsp;
+![gsk-007's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsk-007&show_icons=true&theme=radical)
 
 
 
@@ -19,6 +20,10 @@
 
 <a href="https://www.linkedin.com/in/gursimrat-kalra-65baa6215/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:gsingh16742@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<hr/><br/>
+
+![](https://komarev.com/ghpvc/?username=gsk-007)
+
 
 
 
